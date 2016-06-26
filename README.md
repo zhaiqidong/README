@@ -39,6 +39,9 @@ README
 * [代码高亮](#代码高亮)
 * [表格](#表格) 
 * [表情](#表情)
+* [测试](#测试)
+    * [测试视频](#测试视频)
+    * [测试音频](#测试音频)
 
 横线
 -----------
@@ -327,6 +330,21 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
 
 但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](./emoji.md)。
+
+
+# 测试
+
+## 测试视频
+
+
+这是个视频
+
+%[测试视频](http://markdown.xiaoshujiang.com/media/movie.ogg)
+
+## 测试音频
+
+~[测试音频](http://markdown.xiaoshujiang.com/media/horse.ogg)
+
 
 --------------------------------
 [csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
